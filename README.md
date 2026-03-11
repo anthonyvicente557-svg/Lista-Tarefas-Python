@@ -19,4 +19,5 @@ Projeto simples desenvolvido para praticar lógica de programação em Python.
 ## Autor
 
 Anthony Vicente
+
 Estudante de Análise e Desenvolvimento de Sistemas
